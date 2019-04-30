@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "first_name":"reg",
+        "last_name":"first"        
+    },
+    {
+        "id":2,
+        "first_name":"mika",
+        "last_name":"second"        
+    },
+    {
+        "id":3,
+        "first_name":"rik",
+        "last_name":"third"        
+    }
+]
